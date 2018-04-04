@@ -1,0 +1,2 @@
+mkdir sandbox         to create directory
+gedit commands.txt    to create a text filke named commands
